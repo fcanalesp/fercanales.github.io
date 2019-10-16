@@ -47,7 +47,7 @@ body {
 }
 
 a {
-  color: #DD356E;
+  color: #72c48c;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -81,7 +81,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 ::selection {
   color: #fff;
-  background: #DD356E;
+  background: #72c48c;
 }
 
 .fh5co-nav {
